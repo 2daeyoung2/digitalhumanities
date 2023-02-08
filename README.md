@@ -1,1 +1,1 @@
-# digitalhumanities
+# class of digitalhumanities
